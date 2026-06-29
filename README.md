@@ -54,7 +54,8 @@
 │   ├── 02_media-concept.md       ... メディア構想
 │   ├── 03_platform-strategy.md   ... プラットフォーム役割設計（X/Threads/Note/IG/YouTube）
 │   ├── 04_aiso-framework.md      ... AI最適化（AIO/AISO）設計
-│   └── 05_post-templates.md      ... 4つの投稿構造テンプレ＋量産手順
+│   ├── 05_post-templates.md      ... 4つの投稿構造テンプレ＋量産手順
+│   └── 06_viral-formats.md       ... 世界のバズり型ライブラリ＋30投稿への当てはめ
 └── content/
     ├── posts.md                  ... 30投稿（構造化・タグ付き・本文）
     └── posts.csv                 ... 30投稿のメタデータ（データ化／スコアリング用）
