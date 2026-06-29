@@ -62,7 +62,8 @@
 │   ├── 09_framework.md           ... 引き算の継続設計（15年の経験から抽出した理論）★核
 │   ├── 10_systematization-map.md ... 体系化マップ
 │   ├── 11_personal-branding-vs-ai.md ... パーソナルブランディング vs AI（「木村・堺レベル不要」論／ロックイン・サンクコスト）
-│   └── 12_certification-business.md ... 資格ビジネスの実情（入場券を希望で売るツルハシ業者）
+│   ├── 12_certification-business.md ... 資格ビジネスの実情（入場券を希望で売るツルハシ業者）
+│   └── 13_influencer-course-business.md ... インフルエンサー発生型の講座ビジネス（"下"の層／我々のガードレール）
 └── content/
     ├── posts.md                  ... 30投稿（構造化・タグ付き・本文）
     ├── posts.csv                 ... 30投稿のメタデータ（データ化／スコアリング用）
