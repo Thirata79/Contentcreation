@@ -59,7 +59,9 @@
 │   ├── 06_viral-formats.md       ... 世界のバズり型ライブラリ＋30投稿への当てはめ
 │   ├── 07_broaden-the-front.md   ... 入口を広げる（フロント＝広く/出口＝狭く）
 │   ├── 08_ltv-positioning.md     ... 北極星＝継続(LTV)特化（「集めるな、続けさせろ」）
-│   └── 09_framework.md           ... 引き算の継続設計（15年の経験から抽出した理論）★核
+│   ├── 09_framework.md           ... 引き算の継続設計（15年の経験から抽出した理論）★核
+│   ├── 10_systematization-map.md ... 体系化マップ
+│   └── 11_personal-branding-vs-ai.md ... パーソナルブランディング vs AI（「木村・堺レベル不要」論）
 └── content/
     ├── posts.md                  ... 30投稿（構造化・タグ付き・本文）
     ├── posts.csv                 ... 30投稿のメタデータ（データ化／スコアリング用）
