@@ -50,6 +50,7 @@
 .
 ├── README.md                     ... 全体像（このファイル）
 ├── docs/
+│   ├── 00_minutes.md             ... 戦略ブレストの全議事録（時系列・最終結論つき）
 │   ├── 01_positioning.md         ... 肩書き・ポジション設計
 │   ├── 02_media-concept.md       ... メディア構想
 │   ├── 03_platform-strategy.md   ... プラットフォーム役割設計（X/Threads/Note/IG/YouTube）
