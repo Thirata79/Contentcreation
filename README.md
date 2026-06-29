@@ -61,7 +61,8 @@
 │   ├── 08_ltv-positioning.md     ... 北極星＝継続(LTV)特化（「集めるな、続けさせろ」）
 │   ├── 09_framework.md           ... 引き算の継続設計（15年の経験から抽出した理論）★核
 │   ├── 10_systematization-map.md ... 体系化マップ
-│   └── 11_personal-branding-vs-ai.md ... パーソナルブランディング vs AI（「木村・堺レベル不要」論）
+│   ├── 11_personal-branding-vs-ai.md ... パーソナルブランディング vs AI（「木村・堺レベル不要」論／ロックイン・サンクコスト）
+│   └── 12_certification-business.md ... 資格ビジネスの実情（入場券を希望で売るツルハシ業者）
 └── content/
     ├── posts.md                  ... 30投稿（構造化・タグ付き・本文）
     ├── posts.csv                 ... 30投稿のメタデータ（データ化／スコアリング用）
